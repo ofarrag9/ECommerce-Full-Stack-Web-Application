@@ -9,10 +9,10 @@ This project is a full-stack e-commerce platform built with Vue.js for the front
 The motive behind this project is to create a scalable, easy-to-use e-commerce platform that can be customized for various small to medium-sized businesses. By leveraging the modern capabilities of Vue.js and Node.js, this project serves as a practical application of full-stack development skills, demonstrating the integration of frontend and backend technologies to solve real-world problems.
 
 ## Technologies Used
-Vue.js: Front-end
-Node.js & MongoDB: Back-end 
-Axios: Communicate between the front and back ends
-Firebase: Authentication
+- Vue.js: Front-end
+- Node.js & MongoDB: Back-end 
+- Axios: Communicate between the front and back ends
+- Firebase: Authentication
 
 ## Getting Started
 
