@@ -1,4 +1,4 @@
-# ECommerce-Full-Stack-Web-Application
+# ECommerce Full Stack Web Application
 
 ## Overview
 
