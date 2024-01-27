@@ -1,4 +1,4 @@
-# Full-Stack Vue and Express E-Commerce Platform
+# ECommerce-Full-Stack-Web-Application
 
 ## Overview
 
