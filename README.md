@@ -29,6 +29,18 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
-
+   ```
+   Install packages for backend
+   ```sh
    cd backend
    npm install
+   ```
+   Install packages for frontend
+   ```sh
+   cd frontend
+   npm install
+   ```
+   Serve the frontend application
+   ```sh
+   npm run serve
+   ```
