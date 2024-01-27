@@ -6,8 +6,8 @@ This project is a full-stack e-commerce platform built with Vue.js for the front
 
 ## Interface
 This is how the website I created looks: 
--[Home Page](/ECommerceWebApp/HomePage.jpeg)
--[Shopping Cart Page](/ECommerceWebApp/ShoppingCartPage.jpeg)
+[Home Page](/ECommerceWebApp/HomePage.jpeg)
+[Shopping Cart Page](/ECommerceWebApp/ShoppingCartPage.jpeg)
 
 ## Motive
 
