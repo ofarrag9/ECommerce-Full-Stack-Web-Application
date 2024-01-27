@@ -21,8 +21,8 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 - Node.js
+- Vue.js
 - npm or yarn
-- MongoDB
 
 ### Installation
 
