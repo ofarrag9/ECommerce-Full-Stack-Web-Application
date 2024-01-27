@@ -6,7 +6,13 @@ This project is a full-stack e-commerce platform built with Vue.js for the front
 
 ## Motive
 
-The motive behind this project is to create a scalable, easy-to-use e-commerce platform that can be customized for various small to medium-sized businesses. By leveraging the modern capabilities of Vue.js and Express.js, this platform aims to provide businesses with an efficient way to showcase their products and manage orders. Furthermore, this project serves as a practical application of full-stack development skills, demonstrating the integration of frontend and backend technologies to solve real-world problems.
+The motive behind this project is to create a scalable, easy-to-use e-commerce platform that can be customized for various small to medium-sized businesses. By leveraging the modern capabilities of Vue.js and Node.js, this project serves as a practical application of full-stack development skills, demonstrating the integration of frontend and backend technologies to solve real-world problems.
+
+## Technologies Used
+Vue.js: Front-end
+Node.js & MongoDB: Back-end 
+Axios: Communicate between the front and back ends
+Firebase: Authentication
 
 ## Getting Started
 
@@ -23,3 +29,6 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
+
+   cd backend
+   npm install
